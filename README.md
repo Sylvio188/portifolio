@@ -1,6 +1,6 @@
 # portifolio
 portifolio do desenvolvedor
 
-## tarefas
+## Tarefas
 
 O controle das tarefas desse projeto será realizado no GitHub
